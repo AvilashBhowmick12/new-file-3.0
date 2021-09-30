@@ -21,3 +21,14 @@ int main(int argc, char const *argv[])
     printf("the factorial of %d is %d\n", num , factorial(num));
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+Please visit "view codes" 
